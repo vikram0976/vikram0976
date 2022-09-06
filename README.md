@@ -4,7 +4,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p>
 
 
@@ -36,53 +36,6 @@
 
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-
-php
-
-<?php
-
-
-class About extends Me
-{
-
-    public function getInfo($name , $age)
-    {
-	echo "my name is " . $name . " and my age is " . $ago ;
-    }
-    
-    
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'freelancer',
-                'position' => 'Home'         
-            ]
-        ];
-    }
-
-    public function getKnowledge()
-    {
-        return [
-	    Html::class,
-	    Css::class,
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Bootstrap::class,
-        ];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source.';
-    }
-}
-
-?>
-
-
 
 
 
