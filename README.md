@@ -10,7 +10,7 @@
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://slaconsultantsnoida.in/wp_files/wp-content/uploads_noida/2018/11/Full-Stack-Java-Training-in-Noida.png)" height="175px"/></a>
 
 </br>
 
@@ -19,7 +19,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif)">
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
