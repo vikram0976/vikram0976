@@ -61,27 +61,27 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>Html5
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>CSS3
+      <br>Hibernate
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Bootstrap
+      <br>Java
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
       </a>
-      <br>Javascript
+      <br>MySQL
     </td>
      <td align="center" width="96">
       <a href="#vuejs">
@@ -90,26 +90,23 @@
       <br>Vue JS
     </td>
   </tr>
-
-  <tr>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+   <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
-      <br>Laravel
+      <br>Html5
     </td>
-    <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
+       <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
       </a>
-      <br>MySQL
+      <br>JavaScript
     </td>
   </tr>
    <tr>
