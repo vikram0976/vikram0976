@@ -110,12 +110,12 @@
     </td>
   </tr>
    <tr>
-<!--       <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td> -->
+    </td>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
