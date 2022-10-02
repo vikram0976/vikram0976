@@ -83,12 +83,12 @@
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
+    </td> -->
   </tr>
    <td align="center" width="96">
       <a href="#html5">
@@ -110,12 +110,12 @@
     </td>
   </tr>
    <tr>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td>
+    </td> -->
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -130,9 +130,9 @@
     </td>
       <td align="center" width="96">
       <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Postman
+      <br>Netlify
     </td>
 
   </tr>
