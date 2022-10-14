@@ -12,7 +12,20 @@
 
 <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a>
 
-</br>
+
+
+- 🔭 I’m currently working on Backend and Frontend technologies 😅
+- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
+
+-  📄 This is [My Resume](https://drive.google.com/file/d/1AjeXYEo69tdwyLdKchCGIiFz1TuS1Swz/view?usp=sharing)
+- 📫 How to reach me: ...**chaurasiavikram23@gmail.com**
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
