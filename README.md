@@ -48,7 +48,7 @@
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0976&theme=radical&langs_count=8" alt="Vikram Chaurasia" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=vikram0976&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+
 <div>
 
  
