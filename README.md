@@ -130,7 +130,7 @@
       <a href="#ubuntu" >
         <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ubuntu
+      <br>GitHub
     </td>
       <td align="center" width="96">
       <a href="#git" >
