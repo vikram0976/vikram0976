@@ -12,8 +12,8 @@
 
 <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a>
 
-
-
+### About Me
+Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
