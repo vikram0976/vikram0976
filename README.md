@@ -20,7 +20,7 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1AjeXYEo69tdwyLdKchCGIiFz1TuS1Swz/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/drive/u/4/folders/1AhpFCfFMoqb5Rr0OVca-jSZHzfdC2ydx)
 - 📫 How to reach me: ...**chaurasiavikram23@gmail.com**
 
 
