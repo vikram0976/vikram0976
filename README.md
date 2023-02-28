@@ -1,3 +1,6 @@
+<!-- ![Profile views](https://gpvc.arturio.dev/vikram0976)   -->
+
+
 <h1 align="center">
  👋 Hi, I'm Vikram Chaurasia!
 </h1>
@@ -27,7 +30,7 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
@@ -131,7 +134,7 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
 </p> -->
 
 ## ❤ Views and Followers
-
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;"> -->
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=vikram2312&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
