@@ -13,9 +13,9 @@
 <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a>
 
 ### About Me
-Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+Aspiring Java Backend Developer. An individual who can write clean and optimize code and capable of creating backend applications using Java,
+spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. Always keen to learn new technologies
+- 🔭 I’m currently working on Backend and Frontend technologies 
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://vikram0976.github.io/vikram.github.io/)
@@ -41,15 +41,16 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
  <h2 align="center">
 📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0976&theme=radical" alt="vikram" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vikram0976&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0976&theme=radical" alt="vikram" height="350px"width="47%" />
+ 
 <div>
-  </br>
   
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0976&theme=radical&langs_count=8" alt="Vikram Chaurasia" height="260px" width="25%" />
-
-<div>
+ <div class='container'>
+<img style="height: auto; width: 41%; " class="img" src="https://github-readme-stats.vercel.app/api?username=vikram0976&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0976&theme=blue-green&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></div>
+</div>
 
  
 
@@ -90,7 +91,7 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
-      </a>
+      </a> 
       <br>Java
     </td>
      <td align="center" width="96">
@@ -159,12 +160,12 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
 
 
 
-## Connect with me:
+<!-- ## Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikram2312/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
-</p>
+</p> -->
 
 ## ❤ Views and Followers
 
