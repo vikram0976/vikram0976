@@ -72,23 +72,11 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<h2 align="left"> 💻 Tech - Stack:</h2>
 
 <table align="center">
   <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
     <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
-      </a>
-      <br>Hibernate
-    </td>
-     <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
       </a> 
@@ -100,14 +88,13 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
       </a>
       <br>MySQL
     </td>
-<!--      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>Vue JS
-    </td> -->
-  </tr>
-   <td align="center" width="96">
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
       <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
@@ -125,34 +112,10 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
       </a>
       <br>JavaScript
     </td>
+ 
+ 
   </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>GitHub
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Netlify
-    </td>
 
-  </tr>
 </table>
 
 
