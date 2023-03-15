@@ -34,6 +34,7 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
 
  <h2 align="center">
 📊 My Github Stats<h2>
+ <div>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0976&theme=radical" alt="vikram" height="350px"width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vikram0976&show_icons=true&theme=radical" height="350px" width="47%"/>
@@ -43,7 +44,8 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
  
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0976&theme=theme=blue-green&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vikram Chaurasia" height="200px" width="100%" />
 </div>
-
+</div>
+ <br>
  
 <!--   -->
  
