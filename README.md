@@ -160,4 +160,3 @@ spring Boot, Hibernate, MYSQL etc and also knowledge of HTML, CSS & JavaScript. 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
  
-<br>
